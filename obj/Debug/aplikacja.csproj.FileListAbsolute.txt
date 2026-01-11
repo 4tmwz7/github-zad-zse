@@ -1,0 +1,10 @@
+D:\3klasa\TaD\aplikacja\bin\Debug\aplikacja.exe.config
+D:\3klasa\TaD\aplikacja\bin\Debug\aplikacja.exe
+D:\3klasa\TaD\aplikacja\bin\Debug\aplikacja.pdb
+D:\3klasa\TaD\aplikacja\obj\Debug\aplikacja.csproj.AssemblyReference.cache
+D:\3klasa\TaD\aplikacja\obj\Debug\aplikacja.Form1.resources
+D:\3klasa\TaD\aplikacja\obj\Debug\aplikacja.Properties.Resources.resources
+D:\3klasa\TaD\aplikacja\obj\Debug\aplikacja.csproj.GenerateResource.cache
+D:\3klasa\TaD\aplikacja\obj\Debug\aplikacja.csproj.CoreCompileInputs.cache
+D:\3klasa\TaD\aplikacja\obj\Debug\aplikacja.exe
+D:\3klasa\TaD\aplikacja\obj\Debug\aplikacja.pdb
